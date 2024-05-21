@@ -1,7 +1,8 @@
 use cpal::{
     traits::{
         DeviceTrait,
-        HostTrait, StreamTrait
+        HostTrait,
+        StreamTrait,
     },
     StreamConfig,
 };
